@@ -17,11 +17,12 @@ hu("cid", "c15041300327", "v2.homeup.me", "console.homeup.me");
 //hu("arrow_autolink", true);
 hu("trk");
 </script>
-
 <script>
   (function(w, d){
-    var iframe = d.getElementById('homeup-form');
-    console.log(iframe);
+    w.addEventListener('load', function(){
+      var iframe = d.getElementById('homeup-form');
+      console.log(iframe);
+    }, false);
   }(window, document));
 </script>
 </html>
