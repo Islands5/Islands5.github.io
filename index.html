@@ -20,8 +20,8 @@ hu("trk");
 <script>
   (function(w, d){
     w.addEventListener('load', function(){
-      var iframe = d.getElementById('homeup-form');
-      console.log(iframe);
+      var iframe_w = d.getElementById('homeup-form').contentWindow;
+      iframe_w.postMessage('test', 'https://e8bec533.ngrok.io');
     }, false);
   }(window, document));
 </script>
