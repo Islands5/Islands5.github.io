@@ -21,7 +21,6 @@ hu("trk");
   (function(w, d){
     w.addEventListener('load', function(){
       var iframe_w = d.getElementById('homeup-form').contentWindow;
-      debugger;
       iframe_w.postMessage('test', 'https://e5028484.ngrok.io');
     }, false);
   }(window, document));
