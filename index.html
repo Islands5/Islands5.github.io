@@ -6,6 +6,7 @@
 </head>
 <body>
   <script src="//e5028484.ngrok.io/sites/c15041300327/forms/57c3e0fc014c8e3bc0002335.js?target_id=embbed-form"></script><div id="embbed-form" width="500" height="500"></div>
+  <iframe src="http://localhost:3000" id="test"></iframe>
 </body>
 <script type="text/javascript">
 (function(w,d,s,sr,mk,a,m){
@@ -21,7 +22,9 @@ hu("trk");
   (function(w, d){
     w.addEventListener('load', function(){
       var iframe_w = d.getElementById('homeup-form').contentWindow;
+      var iframe_w2 = d.getElementById('test').contentWindow;
       iframe_w.postMessage('test', 'https://e5028484.ngrok.io');
+      iframe_w2.postMessage('test', 'https://e5028484.ngrok.io');
     }, false);
   }(window, document));
 </script>
