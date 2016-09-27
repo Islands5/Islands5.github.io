@@ -23,7 +23,7 @@ hu("trk");
       if(event.origin != 'https://e5028484.ngrok.io'){ return; }
       var div_embedded = d.getElementById('embbed-form');
       console.log(div_embedded);
-      var iframe_w = div_embbedded.children[0];
+      var iframe_w = div_embedded.children[0];
       iframe_w.contentWindow.postMessage('test', 'https://islands5.github.io');
     }, false);
   }(window, document))
