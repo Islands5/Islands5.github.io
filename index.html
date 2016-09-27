@@ -21,7 +21,6 @@ hu("trk");
   (function(w, d){
     w.addEventListener('load', function(){
       var iframe_w = d.getElementById('homeup-form').contentWindow;
-      console.log(iframe_w);
       iframe_w.postMessage('test', 'https://islands5.github.io');
     }, false);
   }(window, document));
