@@ -18,9 +18,6 @@ hu("cid", "c15041300327", "v2.homeup.me", "console.homeup.me");
 hu("trk");
 </script>
 <script>
-  window.onload = function(){
-    var iframe_w = document.getElementById('homeup-form').contentWindow;
-    iframe_w.postMessage('test', 'https://islands5.github.io');
-  };
+  window.iframe.contentWindow.postMessage('test', 'https://islands5.github.io');
 </script>
 </html>
