@@ -19,15 +19,12 @@ hu("trk");
 </script>
 <script>
   (function(w, d){
-    var exec_cnt = 0
     w.addEventListener('message', function(event){
       if(event.origin != 'https://e5028484.ngrok.io'){ return; }
-      if(exec_cnt > 1){ return; }
       var div_embedded = d.getElementById('embbed-form');
-      console.log(div_embedded);
       var iframe_w = div_embedded.children[0];
-      iframe_w.contentWindow.postMessage(d.cookie, 'https://e5028484.ngrok.io');
-      exec_cnt += 1;
+      var message = 'send_fo_cookie:' + d.cookie
+      iframe_w.contentWindow.postMessage(message, 'https://e5028484.ngrok.io');
     }, false);
   }(window, document))
 </script>
