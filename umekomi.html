@@ -46,8 +46,8 @@
 </body>
 <script>
   window.addEventListener("message", function(event){
-    if(event){
-      console.log(event)
+    if(event.origin == "https://ferret-one.com"){
+      console.log(event.srcWindow)
     }
   }, false);
 </script>
