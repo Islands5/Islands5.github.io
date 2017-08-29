@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<style>
+  #wrapper {
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  .l-main {
+    width: 70%;
+  }
+
+  .l-sidebar {
+    width: 30%;
+  }
+
+  .clearfix:before,
+  .clearfix:after {
+      content: " "; /* 1 */
+      display: table; /* 2 */
+  }
+  
+  .clearfix:after {
+      clear: both;
+  }
+</style>
+<body>
+  <div id="wrapper">
+    <div class="wrapper-inner clearfix">
+      <div class="l-main">
+        <iframe src="https://ferret-one.com/service/training">
+        </iframe>
+      </div>
+      <div class="l-sidebar">
+      </div>
+    </div>
+  </div>
+</body>
+</html>
