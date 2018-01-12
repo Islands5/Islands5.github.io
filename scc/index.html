@@ -6,9 +6,13 @@
 </head>
 <body>
   <div id="app">
-    <a href="#" id="app_link">test</a>
+    <a href="#" id="app_link">Tel</a>
   </div>
 </body>
 <script type="text/javascript">
+  var link = document.getElementById("app_link");
+  var tel = location.search.split("?")[1];
+  link.href = "tel:" + tel;
+  link.click();
 </script>
 </html>
