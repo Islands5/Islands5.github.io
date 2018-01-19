@@ -27,7 +27,7 @@
         <dd>
           <div class="mwform-field">
             <input name="_field_2" type="text" data-formrun-type="email" data-formrun-required>
-            <div data-formrun-show-if-error="メールアドレス">メールアドレスを正しく入力してください</div>
+            <div data-formrun-show-if-error="メールアドレス">正しく入力してください</div>
           </div>
         </dd>
       </dl>
@@ -38,7 +38,8 @@
         </dt>
         <dd>
           <div class="mwform-field">
-            <input name="_field_3" type="tel" data-formrun-required>
+            <input name="_field_3" type="tel" data-formrun-type="tel" data-formrun-required>
+            <div data-formrun-show-if-error="電話番号">正しく入力してください</div>
           </div>
         </dd>
       </dl>
@@ -49,7 +50,7 @@
         </dt>
         <dd>
           <div class="mwform-field">
-            <input name="_field_6" type="text">
+            <input name="_field_6" type="text" placeholder="例) 1月10日の13時から15時">
           </div>
         </dd>
       </dl>
@@ -88,7 +89,7 @@
       </dl>   
    
       <p class="mwform-btn"> 
-        <button type="submit" data-formrun-error-text="未入力の項目があります" data-formrun-submitting-text="送信中...">送信</button>
+        <button type="submit" data-formrun-error-text="未入力/間違った値の項目があります" data-formrun-submitting-text="送信中...">送信</button>
       </p>
     </form>
   </div>
