@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>フォームラン埋め込みテスト</title>
+  <script src="https://sdk.form.run/js/v2/formrun.js"></script>
+</head>
+<body>
+  <div id="app">
+    <form class="formrun" action="https://form.run/api/v1/r/433eyyj1f3k55hqeps3aj5mv" method="post">
+      <!-- ↓自由に要素を追加・編集することができます -->
+      <div>
+        <label>お名前 [必須]</label>
+        <input name="お名前" type="text" data-formrun-required>
+      </div>
+    
+      <div>
+        <label>メールアドレス [必須]</label>
+        <input name="メールアドレス" type="text" data-formrun-type="email" data-formrun-required>
+        <div data-formrun-show-if-error="メールアドレス">メールアドレスを正しく入力してください</div>
+      </div>
+    
+      <div>
+        <label>電話番号 [必須]</label>
+        <input name="電話番号 type="tel" data-formrun-required>
+      </div>
+    
+      <div>
+        <label>予約第1希望日 [任意]</label>
+        <input name="予約第1希望日" type="text">
+      </div>
+    
+      <div>
+        <label>予約第2希望日 [任意]</label>
+        <input name="予約第2希望日" type="text" data-formrun-required>
+      </div>
+    
+      <div>
+        <label>予約第3希望日 [任意]</label>
+        <input name="予約第3希望日" type="text" data-formrun-required>
+      </div>
+    
+    
+      <div>
+        <label>お問い合わせ [任意]</label>
+        <textarea name="お問い合わせ"></textarea>
+      </div>
+    
+      <button type="submit" data-formrun-error-text="未入力の項目があります" data-formrun-submitting-text="送信中...">送信</button>
+    </form>
+  </div>
+</body>
+</html>
