@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:snf="http://www.smartnews.be/snf" xmlns:oa="http://news.line.me/rss/1.0/oa">
+  <channel>
+    <title>光武泉</title>
+    <description>本を読むひまも読む本もないので</description>
+    <link>https://hogeengineer.stg.hmup.jp/blog</link>
+    <language>ja</language>
+    <pubDate>Mon, 01 Jul 2019 18:35:03 +0900</pubDate>
+    <copyright/>
+    <snf:logo>
+      <url>https://homeup-stg.s3.amazonaws.com/images/59d215ca014c8e45de000471/original.png</url>
+    </snf:logo>
+    <item>
+      <title>aaaaaaaaaaaaaaaa</title>
+      <oa:lastPubDate>Mon, 01 Jul 2019 18:36:05 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/37</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/37</link>
+      <description/>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/599d51fe92293857c60083ce/large.jpeg</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/599d51fe92293857c60083ce/large.jpeg" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Mon, 01 Jul 2019 18:35:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>ほげほげ</title>
+      <oa:lastPubDate>Wed, 22 Nov 2017 10:45:20 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/21</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/21</link>
+      <description>ほげほげ</description>
+      <media:thumbnail>
+        <url>https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/original.png</url>
+      </media:thumbnail>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/large.png</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/large.png" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Wed, 22 Nov 2017 10:33:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>「〇〇とは？」「基礎知識編」などの表現を盛り込んだタイトルをつけましょう</title>
+      <oa:lastPubDate>Mon, 13 Nov 2017 12:40:45 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/28</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/28</link>
+      <description/>
+      <media:thumbnail>
+        <url>https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/original.png</url>
+      </media:thumbnail>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/large.png</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/large.png" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Mon, 13 Nov 2017 12:40:45 +0900</pubDate>
+    </item>
+    <item>
+      <title>無題</title>
+      <oa:lastPubDate>Fri, 23 Mar 2018 16:45:08 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/27</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/27</link>
+      <description/>
+      <media:thumbnail>
+        <url>https://homeup-stg.s3.amazonaws.com/images/59f1a3069229383feb003c8b/original.jpeg</url>
+      </media:thumbnail>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/59f1a3069229383feb003c8b/large.jpeg</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/59f1a3069229383feb003c8b/large.jpeg" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Thu, 26 Oct 2017 17:53:10 +0900</pubDate>
+    </item>
+    <item>
+      <title>カレンダーテスト</title>
+      <oa:lastPubDate>Thu, 28 Sep 2017 18:19:57 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/22</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/22</link>
+      <description>カレンダーテスト</description>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/599d51fe92293857c60083ce/large.jpeg</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/599d51fe92293857c60083ce/large.jpeg" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Mon, 09 Oct 2017 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「◯◯まとめ 4選」というような表現を盛り込んだタイトルをつけましょう</title>
+      <oa:lastPubDate>Fri, 29 Sep 2017 13:13:07 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/24</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/24</link>
+      <description/>
+      <media:thumbnail>
+        <url>https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/original.png</url>
+      </media:thumbnail>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/large.png</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/large.png" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Fri, 29 Sep 2017 13:13:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>テスト0606</title>
+      <oa:lastPubDate>Thu, 28 Sep 2017 18:06:06 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/11</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/11</link>
+      <description/>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/599d51fe92293857c60083ce/large.jpeg</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/599d51fe92293857c60083ce/large.jpeg" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Tue, 06 Jun 2017 16:55:42 +0900</pubDate>
+    </item>
+    <item>
+      <title>「◯◯まとめ 4選」というような表現を盛り込んだタイトルをつけましょう</title>
+      <oa:lastPubDate>Thu, 28 Sep 2017 18:03:35 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/10</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/10</link>
+      <description/>
+      <media:thumbnail>
+        <url>https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/original.png</url>
+      </media:thumbnail>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/large.png</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/59262a4a014c8e0ef7000949/large.png" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Thu, 25 May 2017 09:50:29 +0900</pubDate>
+    </item>
+    <item>
+      <title>「〇〇とは？」「基礎知識編」などの表現を盛り込んだタイトルをつけましょう</title>
+      <oa:lastPubDate>Thu, 28 Sep 2017 18:03:31 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/9</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/9</link>
+      <description/>
+      <media:thumbnail>
+        <url>https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/original.png</url>
+      </media:thumbnail>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/large.png</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/large.png" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Wed, 24 May 2017 22:36:31 +0900</pubDate>
+    </item>
+    <item>
+      <title>無題</title>
+      <oa:lastPubDate>Thu, 28 Sep 2017 18:03:31 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/8</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/8</link>
+      <description/>
+      <media:thumbnail>
+        <url>https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/original.png</url>
+      </media:thumbnail>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/large.png</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/592587759229385674000543/large.png" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Wed, 24 May 2017 22:15:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>無題</title>
+      <oa:lastPubDate>Mon, 04 Sep 2017 11:23:24 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/7</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/7</link>
+      <description/>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/599d51fe92293857c60083ce/large.jpeg</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/599d51fe92293857c60083ce/large.jpeg" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Wed, 24 May 2017 15:37:43 +0900</pubDate>
+    </item>
+    <item>
+      <title>私のぶろぐ</title>
+      <oa:lastPubDate>Thu, 28 Sep 2017 17:24:15 +0900</oa:lastPubDate>
+      <oa:delStatus>0</oa:delStatus>
+      <guid>https://hogeengineer.stg.hmup.jp/blog/2</guid>
+      <link>https://hogeengineer.stg.hmup.jp/blog/2</link>
+      <description>これはディスクリプションです</description>
+      <media:thumbnail>
+        <url>https://homeup-stg.s3.amazonaws.com/images/5888013c014c8e7369001029/original.png</url>
+      </media:thumbnail>
+      <content:encoded>
+        <![CDATA[no data]]>
+      </content:encoded>
+      <image>https://homeup-stg.s3.amazonaws.com/images/5888013c014c8e7369001029/large.png</image>
+      <media:content url="https://homeup-stg.s3.amazonaws.com/images/5888013c014c8e7369001029/large.png" medium="image"/>
+      <media:status>
+active      </media:status>
+      <pubDate>Mon, 25 Apr 2016 11:55:57 +0900</pubDate>
+    </item>
+    <description/>
+  </channel>
+</rss>
