@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>blurテスト</title>
+  <style>
+    #app {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <form class="js-file-upload-form">
+      <input type="file" class="js-file-upload-form-field" />
+    </form>
+  </div>
+
+  <script>
+    const input = document.querySelector('.js-file-upload-form-field')
+    input.addEventListener('blur', () => {
+      console.log('blur 呼ばれたよ')
+    })
+  </script>
+</body>
+</html>
